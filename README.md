@@ -18,7 +18,7 @@
 
   - ReactJS:
 
-    - [GoFinances Web](https://github.com/romluc/gostack11-challenge-gofinancesweb)
+    
     - Covid tracker - ReactJS consuming external API (focus on UI/UX using TailwindCSS):
       - [Repo](https://github.com/romluc/covid-tracker)
       - [Site](https://romluc-covidtracker.netlify.app/)
@@ -28,6 +28,7 @@
     - Ron Swanson Quotes - ReactJS consuming external API (focus on UI/UX using React-toastify):
       - [Repo](https://github.com/romluc/ronswanson-quotes) 
       - [Site](https://ronswansonquotes.netlify.app/)
+    - [GoFinances Web](https://github.com/romluc/gostack11-challenge-gofinancesweb)
     
       
 
