@@ -19,13 +19,16 @@
   - ReactJS:
 
     - [GoFinances Web](https://github.com/romluc/gostack11-challenge-gofinancesweb)
-    
     - Covid tracker - ReactJS consuming external API (focus on UI/UX using TailwindCSS):
       - [Repo](https://github.com/romluc/covid-tracker)
       - [Site](https://romluc-covidtracker.netlify.app/)
+    - Pixabay Image Gallery - ReactJS consuming external API (focus on UI/UX also using TailwindCSS)
+      - [Repo](https://github.com/romluc/react-tailwindcss-image-gallery)
+      - [Site](https://romluc-pixabay-tailwind-react-gallery.netlify.app/)
     - Ron Swanson Quotes - ReactJS consuming external API (focus on UI/UX using React-toastify):
-       - [Repo](https://github.com/romluc/ronswanson-quotes) 
-        - [Site](https://ronswansonquotes.netlify.app/)
+      - [Repo](https://github.com/romluc/ronswanson-quotes) 
+      - [Site](https://ronswansonquotes.netlify.app/)
+    
       
 
   - React Native: 
