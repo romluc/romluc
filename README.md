@@ -24,10 +24,14 @@
   - React Native: 
 
     - [Hunt web](https://github.com/romluc/huntweb)
+   
+  - jQuery:
+    - [Pixel Art Maker](https://github.com/romluc/pixel-art-maker)
+      -    Click [here](https://romluc.github.io/pixel-art-maker/) to start painting! 🎨  
 
 - 💬 About me:
 
   - Software engineer and Anesthesiologist (I know it sounds crazy... but... 🤷‍♂️)
   - Drummer
   - Avid learner
-  - Binge-reader
+  - Passionate about helping other
