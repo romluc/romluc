@@ -20,6 +20,10 @@
 
     - [GoFinances Web](https://github.com/romluc/gostack11-challenge-gofinancesweb)
     - [Covid tracker](https://github.com/romluc/covid-tracker)
+    - Ron Swanson Quotes - ReactJS consuming external API (focus on UI/UX using React-toastify):
+       - [Repo](https://github.com/romluc/ronswanson-quotes) 
+        - [Site](https://ronswansonquotes.netlify.app/)
+      
 
   - React Native: 
 
