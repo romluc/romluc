@@ -14,15 +14,15 @@
 -->
 
 
-- Some of my cool repos are:
+- 💻 Some of my cool repos are:
   - https://github.com/romluc/gostack11-challenge-gofinancesweb
   - https://github.com/romluc/covid-tracker
   - https://github.com/romluc/gostack19-github-api
 
   - React Native: 
-  https://github.com/romluc/huntweb
+  [Hunt web](https://github.com/romluc/huntweb)
 
-- About me:
+- 💬 About me:
   - Software engineer and Anesthesiologist (I know it sounds crazy... but... 🤷‍♂️)
   - Drummer
   - Avid learner
