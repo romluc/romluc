@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Romulo 👋
+## Front-End | Full-stack engineer
 
 <!--
 **romluc/romluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
