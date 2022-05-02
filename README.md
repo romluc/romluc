@@ -20,8 +20,6 @@
 
     - [GoFinances Web](https://github.com/romluc/gostack11-challenge-gofinancesweb)
     - [Covid tracker](https://github.com/romluc/covid-tracker)
-    - [GitHub API Explorer](https://github.com/romluc/gostack11--first-react-project)
-    - [GitHub API explorer](https://github.com/romluc/gostack19-github-api)
 
   - React Native: 
 
