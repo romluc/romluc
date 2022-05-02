@@ -1,5 +1,5 @@
-### Hi there, I'm Romulo 👋
-## Front-End | Full-stack engineer
+### Hi there, I'm Romulo 🙂
+## Front-End | Full-stack developer
 
 <!--
 **romluc/romluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,7 @@
     - [Hunt web](https://github.com/romluc/huntweb)
 
 - 💬 About me:
+
   - Software engineer and Anesthesiologist (I know it sounds crazy... but... 🤷‍♂️)
   - Drummer
   - Avid learner
