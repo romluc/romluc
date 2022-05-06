@@ -45,4 +45,4 @@
   - Software engineer and Anesthesiologist (I know it sounds crazy... but... 🤷‍♂️)
   - Drummer
   - Avid learner
-  - Passionate about helping other
+  - Passionate about helping others
