@@ -25,6 +25,9 @@
     - Pixabay Image Gallery - ReactJS consuming external API (focus on UI/UX also using TailwindCSS)
       - [Repo](https://github.com/romluc/react-tailwindcss-image-gallery)
       - [Site](https://romluc-pixabay-tailwind-react-gallery.netlify.app/)
+    - React Hooks 
+      - [Repo](https://github.com/romluc/react-hooks-study)
+      - [Site](https://react-hooks-study.netlify.app/)
     - Ron Swanson Quotes - ReactJS consuming external API (focus on UI/UX using React-toastify):
       - [Repo](https://github.com/romluc/ronswanson-quotes) 
       - [Site](https://ronswansonquotes.netlify.app/)
