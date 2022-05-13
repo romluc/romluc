@@ -1,6 +1,7 @@
 ### Hi there, I'm Romulo 🙂
 ## Front-End | Full-stack developer
-## 🏠 Click [here](https://romluc.com) to head over to my Porfolio Website
+
+### 🏠 Click [here](https://romluc.com) to head over to my Porfolio Website  (built using `NextJS, ReactJS and styled-components`)
 
 <!--
 **romluc/romluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
