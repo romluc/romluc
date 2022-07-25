@@ -15,6 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romluc&theme=dracula)
 
 - 💻 Some of my cool repos are:
 
